@@ -87,6 +87,12 @@ body,html {
     font-size:50px;
     width:60%;
 }
+#about-me {
+    font-size: 20px;
+    color: #fff;
+    margin-top: 20px;
+}
+
 #portfolio {
     width:80%;
     padding:2% 10%;
