@@ -52,7 +52,7 @@ body,html {
     -moz-animation: Gradient 20s ease infinite;
     -o-animation: Gradient 20s ease infinite;
     animation: Gradient 20s ease infinite;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Helvetica', cursive;
 }
 #links {
     margin:40px 0px;
@@ -108,7 +108,7 @@ body,html {
 #portfolio div h1 {
     font-size: 40px;
     color: black; /* Use this instead of the gradient */
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Helvetica', cursive;
 }
 #skills {
     margin:4vh 0px !important;
@@ -132,7 +132,7 @@ body,html {
     border:0px;
     border-bottom:2px solid rgba(255,255,255,0.5);
     padding:8px 10px;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Helvetica', cursive;
     font-size:18px;
     transition:0.4s ease-in-out;
     color:#fff;
@@ -144,7 +144,7 @@ body,html {
     border:0px;
     border-bottom:2px solid rgba(255,255,255,0.5);
     padding:8px 10px;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Helvetica', cursive;
     font-size:18px;
     background:transparent;
     resize:none;
@@ -168,7 +168,7 @@ body,html {
     border-radius:50px;
     border:2px solid #fff;
     font-size:18px;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Helvetica', cursive;
     font-weight:bold;
     background:transparent;
     transition:0.4s ease-in-out;
@@ -188,7 +188,7 @@ body,html {
     border-radius:50px;
     border:2px solid #fff;
     font-size:18px;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Helvetica', cursive;
     font-weight:bold;
     background:#fff;
     transition:0.4s ease-in-out;
@@ -277,7 +277,7 @@ body,html {
     -moz-animation: Gradient 20s ease infinite;
     -o-animation: Gradient 20s ease infinite;
     animation: Gradient 20s ease infinite;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Helvetica', cursive;
     text-decoration:none;
 }
 button:focus {
