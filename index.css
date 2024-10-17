@@ -118,11 +118,11 @@ body,html {
     margin:4vh 0px !important;
     padding:2vh 0px !important;
     font-size: 20px;
-    color: rgba(0,0,0);
+    color: rgba(0,0,0) !important;
 }
 skills p{
     font_size:10px;
-    color: rgba(0,0,0);
+    color: rgba(0,0,0) !important;
 }
 #contact {
     margin: 4vh 0px 4vh 40px !important; /* Adds space outside the contact section on the left */
