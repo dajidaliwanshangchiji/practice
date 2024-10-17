@@ -92,6 +92,10 @@ body,html {
     color: #fff;
     margin-top: 20px;
 }
+#hello-text {
+    padding-left: 0;  /* Adjust padding as needed */
+    margin-left: 0;   /* Adjust margin as needed */
+}
 
 #portfolio {
     width:80%;
