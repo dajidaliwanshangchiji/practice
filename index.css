@@ -41,10 +41,11 @@ body,html {
     display:block;
 }
 #title {
-    font-size:40px;
+    font-size: 40px;
     background-image: linear-gradient(to left, #1E90FF 0%, #9370DB 100%);
     -webkit-background-clip:text;
-    background-clip:text;
+    background-clip: text;
+    font-weight: bold;
     -webkit-text-fill-color: transparent;
     background-size:500% 500% !important;
     -webkit-animation: Gradient 20s ease infinite;
