@@ -3,7 +3,7 @@ body,html {
     margin:0px;
     font-family: 'Helvetica', 'Arial', sans-serif;
     font-weight:bold;
-    color:black;
+    color:white;
     background:rgb(255, 255, 255);
     scroll-behavior: smooth;
 }
@@ -57,7 +57,7 @@ body,html {
 #links {
     margin:40px 0px;
     transition:0.6s ease-in-out;
-    color:#fff;
+    color:black;
 }
 #links a {
     margin:0px 30px;
@@ -76,7 +76,7 @@ body,html {
     background:linear-gradient(0deg,rgba(0,0,0,0.3),rgba(0,0,0,0)),url("https://images.unsplash.com/photo-1622547748225-3fc4abd2cca0?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D") center center fixed;
     background-size:100% auto;
     background-repeat:no-repeat;
-    color:white;
+    color:black;
     display:flex;
     justify-content:center;
     flex-direction:column;
@@ -102,9 +102,12 @@ body,html {
 #portfolio {
     width:80%;
     padding:2% 10%;
-    font-size: 40px;
+    font-size: 20px;
     color: black !important;
     font-family: 'Helvetica', cursive;
+}
+#portfolio {
+    color:black;
 }
 #portfolio div h1 {
     font-size: 40px;
@@ -136,7 +139,7 @@ body,html {
     font-family: 'Helvetica', cursive;
     font-size:18px;
     transition:0.4s ease-in-out;
-    color:#fff;
+    color:black;
 }
 #contact form textarea {
     width:96%;
@@ -150,7 +153,7 @@ body,html {
     background:transparent;
     resize:none;
     transition:0.4s ease-in-out;
-    color:#fff;
+    color:black;
 }
 #contact form input:focus {
     outline:none;
@@ -161,7 +164,7 @@ body,html {
     border-bottom:2px solid rgba(255,255,255,1);
 }
 ::placeholder {
-    color:#fff;
+    color:black;
 }
 .btn_one {
     color:white;
