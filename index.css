@@ -2,7 +2,6 @@ body,html {
     padding:0px;
     margin:0px;
     font-family: 'Helvetica', 'Arial', sans-serif;
-    font-weight:bold;
     color:white;
     background:rgb(255, 255, 255);
     scroll-behavior: smooth;
@@ -119,11 +118,11 @@ body,html {
     margin:4vh 0px !important;
     padding:2vh 0px !important;
     font-size: 20px;
-    color: rgba(0,0,0)
+    color: rgba(0,0,0);
 }
 skills p{
     font_size:10px;
-    color: rgba(0,0,0)
+    color: rgba(0,0,0);
 }
 #work {
     margin:4vh 0px !important;
