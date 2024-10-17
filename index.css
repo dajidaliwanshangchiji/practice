@@ -90,8 +90,7 @@ body,html {
     padding: 0;
 }
 #hello-text {
-    padding-left: 0;  /* Adjust padding as needed */
-    margin-left: 0;   /* Adjust margin as needed */
+    
 }
 #about-me {
     font-size: 20px;
