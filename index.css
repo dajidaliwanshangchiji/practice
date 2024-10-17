@@ -84,11 +84,11 @@ body,html {
     padding-top:20vh;
 }
 #tagline {
-    font-size:50px;
-    width:60%;
+    font-size: 50px;
+    width: 60%;
     text-align: left;
-    margin: 20px
-    padding-left: 20px;
+    margin: 20px;
+    padding-left: 20px; 
 }
 #hello-text {
     padding-left: 0;  /* Set this to reduce padding if needed */
