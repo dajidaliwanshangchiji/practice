@@ -103,15 +103,15 @@ body,html {
     width:80%;
     padding:2% 10%;
     font-size: 20px;
-    color: black !important;
+    color: rgba(0, 0, 0, 0.7) !important;
     font-family: 'Helvetica', cursive;
 }
 #portfolio {
-    color:black;
+    color:rgba(0, 0, 0, 0.7);
 }
 #portfolio div h1 {
     font-size: 40px;
-    color: black !important;
+    color: rgba(0, 0, 0, 0.7) !important;
     font-family: 'Helvetica', cursive;
 }
 #skills {
@@ -139,7 +139,7 @@ body,html {
     font-family: 'Helvetica', cursive;
     font-size:18px;
     transition:0.4s ease-in-out;
-    color:black;
+    color:rgba(0, 0, 0, 0.7);
 }
 #contact form textarea {
     width:96%;
@@ -153,7 +153,7 @@ body,html {
     background:transparent;
     resize:none;
     transition:0.4s ease-in-out;
-    color:black;
+    color:rgba(0, 0, 0, 0.7);
 }
 #contact form input:focus {
     outline:none;
@@ -275,7 +275,7 @@ body,html {
     background-image: linear-gradient(to left, #FF416C 0%, #FF4B2B 100%);
     -webkit-background-clip:text;
     background-clip:text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: rgba(0, 0, 0, 0.7);
     background-size:500% 500% !important;
     -webkit-animation: Gradient 20s ease infinite;
     -moz-animation: Gradient 20s ease infinite;
