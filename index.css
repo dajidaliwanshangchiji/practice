@@ -116,10 +116,8 @@ body,html {
     font-family: 'Helvetica', cursive;
 }
 #skills {
-    margin: 4vh 0px !important; /* This controls the space above and below */
-    margin-left: 40px; /* Adjust this value for less indent */
-    padding: 2vh 20px !important; /* This controls the space inside the element */
-    font-size: 20px;
+    margin-left: 70px !important; /* This controls the space above and below */
+    font-size: 10px !important;
     color: rgba(0,0,0) !important;
 }
 
