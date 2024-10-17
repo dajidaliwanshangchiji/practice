@@ -128,10 +128,12 @@ skills p{
 }
 #contact {
     margin:4vh 0px !important;
-    padding:2vh 0px !important;
+    padding:2vh 20px !important;
 }
 #contact form {
     width:100%;
+    margin:4vh 0px !important;
+    padding:2vh 20px !important;
 }
 #contact form input {
     width:46%;
