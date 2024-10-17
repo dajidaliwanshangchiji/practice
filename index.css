@@ -119,9 +119,11 @@ body,html {
     margin:4vh 0px !important;
     padding:2vh 0px !important;
     font-size: 20px;
+    color: rgba(0,0,0)
 }
 skills p{
     font_size:10px;
+    color: rgba(0,0,0)
 }
 #work {
     margin:4vh 0px !important;
