@@ -104,6 +104,9 @@ body,html {
 #portfolio {
     width:80%;
     padding:2% 10%;
+    font-size: 40px;
+    color: black !important;
+    font-family: 'Helvetica', cursive;
 }
 #portfolio div h1 {
     font-size: 40px;
