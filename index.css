@@ -115,7 +115,15 @@ body,html {
     color: rgba(0, 0, 0, 0.7) !important;
     font-family: 'Helvetica', cursive;
 }
-#skills h1{
+#skills {
+    margin:4vh 0px !important;
+    padding:2vh 20px !important;
+    padding-left: 240px;
+    font-size: 20px;
+    color: rgba(0,0,0) !important;
+}
+/*
+#skills {
     margin:4vh 20px !important;
     padding:2vh 20px !important;
     font-size: 20px;
@@ -127,6 +135,7 @@ skills p{
     padding:2vh 20px !important;
     color: rgba(0,0,0) !important;
 }
+*/
 #contact {
     margin: 4vh 0px 4vh 40px !important; /* Adds space outside the contact section on the left */
     padding: 2vh 20px !important;
