@@ -106,15 +106,8 @@ body,html {
     padding:2% 10%;
 }
 #portfolio div h1 {
-    font-size:40px;
+    font-size: 40px;
     color: black; /* Use this instead of the gradient */
-    font-family: 'Helvetica', cursive;
-    background-clip:text;
-    background-size:500% 500% !important;
-    -webkit-animation: Gradient 20s ease infinite;
-    -moz-animation: Gradient 20s ease infinite;
-    -o-animation: Gradient 20s ease infinite;
-    animation: Gradient 20s ease infinite;
     font-family: 'Comfortaa', cursive;
 }
 #skills {
