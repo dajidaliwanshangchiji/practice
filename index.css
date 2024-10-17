@@ -128,9 +128,8 @@ skills p{
     padding:2vh 0px !important;
 }
 #contact {
-    margin:4vh 20px !important;
-    padding:2vh 20px !important;
-    padding-left: 240px !important;
+    margin: 4vh 0px 4vh 40px !important; /* Adds space outside the contact section on the left */
+    padding: 2vh 20px !important;
     color:rgba(47,79,79);
 }
 #contact form {
