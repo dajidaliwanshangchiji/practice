@@ -93,11 +93,11 @@ body,html {
 #hello-text {
     padding-left: 0;  /* Set this to reduce padding if needed */
     margin-left: 0;
-    color: rgba(169,169,169);
+    color: rgba(65,105,225);
 }
 #about-me {
     font-size: 20px;
-    color: rgba(169,169,169);
+    color: rgba(65,105,225);
     margin-top: 20px;
 }
 #portfolio {
@@ -130,20 +130,20 @@ skills p{
 #contact {
     margin:4vh 20px !important;
     padding:2vh 20px !important;
-    padding-left: 120px;
+    padding-left: 240px;
     color:rgba(47,79,79);
 }
 #contact form {
     width:100%;
     margin:4vh 0px !important;
     padding:2vh 20px !important;
-    padding-left: 120px;
+    padding-left: 240px;
     color:rgba(47,79,79);
 }
 #contact form input {
     width:46%;
     margin:20px 1%;
-    padding-left: 120px;
+    padding-left: 240px;
     background:transparent;
     border:0px;
     border-bottom:2px solid rgba(255,255,255,0.5);
