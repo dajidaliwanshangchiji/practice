@@ -107,7 +107,7 @@ body,html {
 }
 #portfolio div h1 {
     font-size: 40px;
-    color: black; /* Use this instead of the gradient */
+    color: black !important;
     font-family: 'Helvetica', cursive;
 }
 #skills {
