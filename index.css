@@ -124,10 +124,6 @@ skills p{
     font_size:10px;
     color: rgba(0,0,0);
 }
-#work {
-    margin:4vh 0px !important;
-    padding:2vh 0px !important;
-}
 #contact {
     margin: 4vh 0px 4vh 40px !important; /* Adds space outside the contact section on the left */
     padding: 2vh 20px !important;
