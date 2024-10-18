@@ -105,9 +105,14 @@ body,html {
     color: rgba(25,25,112);
     margin-top: 20px;
 }
-#portfolio .projects h1 {
-    margin-left: 20px;
+#skills {
+    margin-bottom: 20px; /* Adds space below the skills section */
 }
+
+#projects {
+    margin-top: 40px; /* Adds space above the projects section */
+}
+
 
 /*
 #skills {
