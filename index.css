@@ -105,23 +105,8 @@ body,html {
     color: rgba(25,25,112);
     margin-top: 20px;
 }
-#portfolio {
-    padding-left: 5%; /* Apply consistent padding to the left */
-    padding-right: 5%; /* Apply consistent padding to the right */
-}
-
-#skills, .projects {
-    margin-left: 0; /* Remove any left margin */
-    padding-left: 0; /* Remove any left padding */
-}
-
-h1, h2 {
-    margin-left: 0; /* Align all headers properly */
-}
-
-.project {
-    margin-left: 0;
-    padding-left: 0;
+#portfolio .projects h1 {
+    margin-left: 20px;
 }
 
 /*
