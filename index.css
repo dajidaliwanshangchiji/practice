@@ -116,8 +116,8 @@ body,html {
     font-family: 'Helvetica', cursive;
 }
 #skills {
-    padding-left: 5%; /* Adds padding for indentation */
-    font-size: 12px; /* Adjust size as needed */
+    padding-left: 10%; /* Adds padding for indentation */
+    font-size: 20px; /* Adjust size as needed */
     color: rgba(0, 0, 0); /* Text color */
 }
 
