@@ -101,26 +101,23 @@ body,html {
     margin-top: 20px;
 }
 #portfolio {
-    width:80%;
-    padding:2% 10%;
-    font-size: 15px;
-    color: rgba(47, 79, 79) !important;
-    font-family: 'Helvetica', cursive;
-}
-#portfolio {
-    color:rgba(47, 79, 79);
-}
-#portfolio div h1 {
-    font-size: 25px;
-    color: rgba(0, 0, 0, 0.7) !important;
-    font-family: 'Helvetica', cursive;
-}
-#skills {
-    padding-left: 10%; /* Adds padding for indentation */
-    font-size: 20px; /* Adjust size as needed */
-    color: rgba(0, 0, 0); /* Text color */
+    padding-left: 5%; /* Apply consistent padding to the left */
+    padding-right: 5%; /* Apply consistent padding to the right */
 }
 
+#skills, .projects {
+    margin-left: 0; /* Remove any left margin */
+    padding-left: 0; /* Remove any left padding */
+}
+
+h1, h2 {
+    margin-left: 0; /* Align all headers properly */
+}
+
+.project {
+    margin-left: 0;
+    padding-left: 0;
+}
 
 /*
 #skills {
