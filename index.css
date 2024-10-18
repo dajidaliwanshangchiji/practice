@@ -116,9 +116,9 @@ body,html {
     font-family: 'Helvetica', cursive;
 }
 #skills {
-    margin-left: 70px !important; /* This controls the space above and below */
-    font-size: 10px !important;
-    color: rgba(0,0,0) !important;
+    padding-left: 70px; /* Adds padding for indentation */
+    font-size: 12px; /* Adjust size as needed */
+    color: rgba(0, 0, 0); /* Text color */
 }
 
 
