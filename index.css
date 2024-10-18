@@ -107,10 +107,14 @@ body,html {
 }
 #skills {
     margin-bottom: 20px; /* Adds space below the skills section */
+    margin-left: 20px;
+    margin-right: 20px
 }
 
 #projects {
-    margin-top: 40px; /* Adds space above the projects section */
+    margin-bottom: 20px; /* Adds space below the skills section */
+    margin-left: 20px;
+    margin-right: 20px
 }
 
 
